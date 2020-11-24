@@ -6,3 +6,15 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -159.812667 -21.2035 7.16 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -159.798167 -21.2035 7.06 180
 OBJECT_SHARED Models/Airport/localizer.xml -159.817167 -21.202667 5.07 0.19
 OBJECT_SHARED Models/Airport/localizer.xml -159.794333 -21.202667 6.58 179.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -159.79639 -21.20025 0.00 222.3
+OBJECT_SHARED Models/lib/prop_a.ac -159.79637 -21.20038 6.20 145.175
+OBJECT_SHARED Models/lib/loader.ac -159.79928 -21.20064 6.24 270
+OBJECT_SHARED Models/lib/cargo-dolly-parking-HD.ac -159.79936 -21.20050 5.69 90
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -159.79752 -21.20030 5.66 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -159.79767 -21.20029 5.68 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -159.79810 -21.20033 5.68 0
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -159.79823 -21.20033 5.68 0
+# END dsf2stg
